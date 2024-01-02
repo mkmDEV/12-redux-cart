@@ -38,4 +38,3 @@ function App() {
 }
 
 export default App;
-// 'https://react-http-7903b-default-rtdb.europe-west1.firebasedatabase.app';
